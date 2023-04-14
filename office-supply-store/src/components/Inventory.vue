@@ -52,8 +52,8 @@ export default {
   data() {
     return {
       inventory: [
-        { name: 'Desk', stock: 5, price: 50 },
-        { name: 'Chair', stock: 10, price: 20 },
+        { name: 'Desk', stock: 5, price: 100 },
+        { name: 'Chair', stock: 10, price: 50 },
         { name: 'Pencils', stock: 20, price: 1 },
         { name: 'Pens', stock: 15, price: 2 }
       ]
